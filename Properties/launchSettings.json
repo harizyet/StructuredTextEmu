@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StructuredTextEmu": {
+      "commandName": "Project",
+      "commandLineArgs": "-s \"../../../testfiles/plc_prog.txt\""
+    }
+  }
+}

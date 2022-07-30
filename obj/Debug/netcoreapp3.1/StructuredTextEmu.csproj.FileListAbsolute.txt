@@ -1,0 +1,16 @@
+C:\Users\hariz\Source\Repos\harizyet\StructuredTextEmu\obj\Debug\netcoreapp3.1\StructuredTextEmu.csproj.AssemblyReference.cache
+C:\Users\hariz\Source\Repos\harizyet\StructuredTextEmu\obj\Debug\netcoreapp3.1\StructuredTextEmu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hariz\Source\Repos\harizyet\StructuredTextEmu\obj\Debug\netcoreapp3.1\StructuredTextEmu.AssemblyInfoInputs.cache
+C:\Users\hariz\Source\Repos\harizyet\StructuredTextEmu\obj\Debug\netcoreapp3.1\StructuredTextEmu.AssemblyInfo.cs
+C:\Users\hariz\Source\Repos\harizyet\StructuredTextEmu\obj\Debug\netcoreapp3.1\StructuredTextEmu.csproj.CoreCompileInputs.cache
+C:\Users\hariz\Source\Repos\harizyet\StructuredTextEmu\bin\Debug\netcoreapp3.1\StructuredTextEmu.exe
+C:\Users\hariz\Source\Repos\harizyet\StructuredTextEmu\bin\Debug\netcoreapp3.1\StructuredTextEmu.deps.json
+C:\Users\hariz\Source\Repos\harizyet\StructuredTextEmu\bin\Debug\netcoreapp3.1\StructuredTextEmu.runtimeconfig.json
+C:\Users\hariz\Source\Repos\harizyet\StructuredTextEmu\bin\Debug\netcoreapp3.1\StructuredTextEmu.runtimeconfig.dev.json
+C:\Users\hariz\Source\Repos\harizyet\StructuredTextEmu\bin\Debug\netcoreapp3.1\StructuredTextEmu.dll
+C:\Users\hariz\Source\Repos\harizyet\StructuredTextEmu\bin\Debug\netcoreapp3.1\StructuredTextEmu.pdb
+C:\Users\hariz\Source\Repos\harizyet\StructuredTextEmu\bin\Debug\netcoreapp3.1\CommandLine.dll
+C:\Users\hariz\Source\Repos\harizyet\StructuredTextEmu\obj\Debug\netcoreapp3.1\StructuredTextEmu.csproj.CopyComplete
+C:\Users\hariz\Source\Repos\harizyet\StructuredTextEmu\obj\Debug\netcoreapp3.1\StructuredTextEmu.dll
+C:\Users\hariz\Source\Repos\harizyet\StructuredTextEmu\obj\Debug\netcoreapp3.1\StructuredTextEmu.pdb
+C:\Users\hariz\Source\Repos\harizyet\StructuredTextEmu\obj\Debug\netcoreapp3.1\StructuredTextEmu.genruntimeconfig.cache

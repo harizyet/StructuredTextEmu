@@ -1,0 +1,44 @@
+IF S:FS THEN
+	ThresTemp := 25.0;
+	DO_00 := 0;
+	DO_00 := 0;
+	DO_01 := 0;
+	DO_02 := 0;
+	DO_03 := 0;
+	DO_04 := 0;
+	DO_05 := 0;
+	DO_06 := 0;
+	DO_07 := 0;
+	DO_08 := 0;
+	DO_09 := 0;
+	DO_10 := 0;
+	DO_11 := 0;
+END_IF;
+
+(*Assignment 2 part a*)
+osri_1.InputBit := DI_01;
+OSRI(osri_1);
+IF (osri_1.OutputBit) AND (DO_06) THEN
+	DO_06 := 0;
+ELSE;
+	DO_06 := 1;
+END_IF;
+
+
+(*Assignment 2 part b*)
+osri_2.InputBit := DI_05;
+OSRI(osri_2);
+IF (osri_1.OutputBit) AND (DO_07) THEN
+	DO_07 := 0;
+ELSE;
+	DO_07 := 1;
+END_IF;
+
+IF (osri_2.OutputBit) AND (DO_08) THEN
+	DO_08 := 0;
+ELSE;
+	DO_08 := 1;
+END_IF;
+
+
+(*Assignment 2 part c*)
