@@ -43,19 +43,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hariz\\.nuget\\packages\\": {}
+    "C:\\Users\\hy3\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hariz\\Source\\Repos\\harizyet\\StructuredTextEmu\\StructuredTextEmu.csproj",
+      "projectUniqueName": "C:\\Users\\hy3\\Source\\Repos\\harizyet\\StructuredTextEmu\\StructuredTextEmu.csproj",
       "projectName": "StructuredTextEmu",
-      "projectPath": "C:\\Users\\hariz\\Source\\Repos\\harizyet\\StructuredTextEmu\\StructuredTextEmu.csproj",
-      "packagesPath": "C:\\Users\\hariz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hariz\\Source\\Repos\\harizyet\\StructuredTextEmu\\obj\\",
+      "projectPath": "C:\\Users\\hy3\\Source\\Repos\\harizyet\\StructuredTextEmu\\StructuredTextEmu.csproj",
+      "packagesPath": "C:\\Users\\hy3\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hy3\\Source\\Repos\\harizyet\\StructuredTextEmu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hariz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hy3\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +63,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/becagroup/_packaging/Beca/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -101,7 +102,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
